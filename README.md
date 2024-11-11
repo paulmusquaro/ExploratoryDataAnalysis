@@ -40,7 +40,7 @@ If you haven't installed Conda yet, you can download it from the official [Anaco
     conda activate new_conda_env
     ```
 
-4. **Install required packages (Jupyter and NumPy)**
+4. **Install required packages (Jupyter, NumPy, MatPlotLib and Pandas)**
 
     ```bash
     conda install jupyter numpy matplotlib pandas
